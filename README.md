@@ -25,7 +25,7 @@ The Date Range tool allows the user to select specific dates, as well as API que
 
 ### Site Traffic Flow
 
-The Custom line graph uses the D3.js library, which allows us the flexibility to further customize this graph for all VIMOC projects.  Bug Labs built this line graph from scratch, instead of using a charting library, so that it can be customized to specific user requirements.
+The Custom line graph uses the D3.js framework, which allows us the flexibility to further customize this graph for all VIMOC projects.  Bug Labs built this line graph from scratch, instead of using a charting library, so that it can be customized to specific user requirements.
 
 D3 uses SVG, HMTL5 and CSS standards, and is implemented in hundreds of thousands of websites.
 
@@ -59,4 +59,4 @@ The VIMOC datasource connects to the VIMOC API to return requested historical da
 
 
 
-![BUG_logo_RGB](https://github.com/buglabs/VIMOC/raw/master/files/pictures/BUG_logo_RGB.PNG)
+![BUG_logo_RGB](https://github.com/buglabs/VIMOC/raw/master/files/pictures/BUG_logo_RGB.jpg)
