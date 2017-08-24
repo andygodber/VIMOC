@@ -1,4 +1,4 @@
-https://github.com/buglabs/VIMOC/raw/master/files/pictures/VIMOC.PNG
+![VIMOC](https://github.com/buglabs/VIMOC/raw/master/files/pictures/VIMOC.PNG)
 
 # Documentation for VIMOC freeboard widgets. 
 
@@ -6,7 +6,7 @@ Official Phase 1 freeboard dashboard can be found here:
 https://freeboard.io/board/HxhPkU
 
 ## Using the dashboard
-https://github.com/buglabs/VIMOC/raw/master/files/pictures/VIMOClinegraph.PNG
+![VIMOC Line Graph](https://github.com/buglabs/VIMOC/raw/master/files/pictures/VIMOClinegraph.PNG)
 
 
 
@@ -37,4 +37,4 @@ The VIMOC datasource connects to the VIMOC API to return requested historical da
 
 
 
-https://github.com/buglabs/VIMOC/raw/master/files/pictures/BUG_logo_RGB.PNG
+![BUG_logo_RGB](https://github.com/buglabs/VIMOC/raw/master/files/pictures/BUG_logo_RGB.PNG)
