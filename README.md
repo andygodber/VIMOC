@@ -1,13 +1,17 @@
-# VIMOC
+https://github.com/buglabs/VIMOC/raw/master/files/pictures/VIMOC.PNG
 
-Documentation for the custom VIMOC freeboard widgets. 
+# Documentation for VIMOC freeboard widgets. 
 
-Official freeboard dashboard can be found here:
+Official Phase 1 freeboard dashboard can be found here:
 https://freeboard.io/board/HxhPkU
 
 ## Using the dashboard
+https://github.com/buglabs/VIMOC/raw/master/files/pictures/VIMOClinegraph.PNG
 
 
+
+
+Please note: This allows visualizing and filtering by both the direction (in/out) AND the orientation (N/S/E/W)
 
 ## Custom elements of the dashboard
 
@@ -30,3 +34,7 @@ Custom line chart that allows re-use for all future VIMOC projects.  Bug Labs wi
 [VIMOC Datasource](https://www.dropbox.com/s/3xh7geybvvsb1a3/vimocDatasource.js?raw=1)
 
 The VIMOC datasource connects to the VIMOC API to return requested historical data.
+
+
+
+https://github.com/buglabs/VIMOC/raw/master/files/pictures/BUG_logo_RGB.PNG
