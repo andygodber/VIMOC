@@ -59,4 +59,4 @@ The VIMOC datasource connects to the VIMOC API to return requested historical da
 
 
 
-![BUG_logo_RGB](https://github.com/buglabs/VIMOC/raw/master/files/pictures/BUG_logo_RGB.jpg)
+![BUG_logo_gif](https://github.com/buglabs/VIMOC/blob/master/files/pictures/BUG_logo_gif.gif)
