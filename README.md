@@ -17,7 +17,7 @@ The maps represent the location of the entire array, as well as examples of a fe
 
 The Graph tools are dropdown selectors that allow you to choose all or individual sensors for visualization.
 
-After selecting which sensor to visualize, the user can further refine the graph by choosing to view all directions, in only, or the outdirection.
+After selecting which sensor to visualize, the user can further refine the graph by choosing to view all directions or a single direction (in/out).
 
 ### Graph Date Range
 
