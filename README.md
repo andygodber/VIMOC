@@ -11,7 +11,7 @@ https://freeboard.io/board/HxhPkU
 
 ### Maps
 
-The maps represent the location of the entire array, as well as examples of a few individual sensor locations. These maps are not clickable, and will be combined into a single clickable map in Phase 2.  For now, we wanted to let you see options and examples.
+The maps represent the location of the entire array, as well as examples of a few individual sensor locations. These maps are not clickable, and will be combined into a single clickable map in Phase 2.  The maps are meant to be viewed as examples.
 
 ### Sensor Graph Tools
 
