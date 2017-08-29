@@ -3,23 +3,23 @@
 # Documentation for VIMOC freeboard widgets. 
 
 Official Phase 1 freeboard dashboard can be found here:
-https://freeboard.io/board/HxhPkU
+https://freeboard.io/board/PhF6lU
 
 ## Using the dashboard
 
-![VIMOC Line Graph](https://github.com/buglabs/VIMOC/raw/master/files/pictures/VIMOClinegraph2.PNG)
+![VIMOC Line Graph](https://github.com/buglabs/VIMOC/raw/master/files/pictures/VIMOClinegraph3.png)
 
 ### Maps
 
 The maps represent the location of the entire array, as well as examples of a few individual sensor locations. These maps are not clickable, and will be combined into a single clickable map in Phase 2.  The maps are meant to be viewed as examples.
 
-### Sensor Graph Tools
+### Graph Tools 
 
-The Graph tools are dropdown selectors that allow you to choose all or individual sensors for visualization.
+#### Filters
 
-After selecting which sensor to visualize, the user can further refine the graph by choosing to view all directions or a single direction (in/out).
+The dropdown selectors allow you to specify all or an individual sensor and/or direction (in/out/n/s/e/w) for visualization.
 
-### Graph Date Range
+#### Date Range
 
 The Date Range tool allows the user to select specific dates, as well as API query times, in order to produce a meaningful graph.
 
