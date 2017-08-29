@@ -19,7 +19,9 @@ The graph tools allow you to visualize specific sensors for any valid date range
 
 #### Sensor and Direction Filters
 
-The dropdown selectors allow you to specify individual sensors and/or directions (in/out) for visualization. 
+The dropdown selectors allow you to specify individual sensors and/or directions (in/out) for visualization(e.g.). 
+
+![SingleSensor](https://github.com/buglabs/VIMOC/blob/master/files/pictures/SingleSensor.PNG)
 
 #### Date Range
 
@@ -35,11 +37,11 @@ Bug Labs added subtle tool tips and user actions to get the most out of the new 
 
 ##### Double Click
 
-By default, all sensors are chosen for the selected date range. The user can double click on any sensor button on the top of the chart to turn all other lines off, except the double-clicked line (e.g.).
+By default, all sensors are chosen for the selected date range. The user can double click on any sensor button on the top of the chart to turn all other lines off, except the double-clicked line(e.g.).
 
 ![DoubleClick](https://github.com/buglabs/VIMOC/blob/master/files/pictures/DoubleClick.PNG)
 
-The user can then single click the same button to turn them all back on. Separately, the user can select any other sensor, to compare two or more sensors to each other (e.g.).
+The user can then single click the same button to turn them all back on. Separately, the user can select any other sensor, to compare two or more sensors to each other(e.g.).
 
 ![SidebySide](https://github.com/buglabs/VIMOC/blob/master/files/pictures/SidebySide.PNG)
 
@@ -47,7 +49,9 @@ The user can then single click the same button to turn them all back on. Separat
 
 Within the custom VIMOC Line graph is a legend to show details for all visualized sensors.  Upon hover, the legend will identify all visualized lines, by color, present the time stamp, as well as the individual sensor details.
 
-Further, when the user hovers over a specific point on any line, the legend will highlight that individual sensor within the legend (e.g.).
+Further, when the user hovers over a specific point on any line, the legend will highlight that individual sensor within the legend(e.g.).
+
+![LegendHover](https://github.com/buglabs/VIMOC/blob/master/files/pictures/LegendHover.PNG)
 
 ## Custom elements of the dashboard
 
