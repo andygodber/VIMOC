@@ -25,7 +25,9 @@ The dropdown selectors allow you to specify individual sensors and/or directions
 
 #### Date Range
 
-The Date Range tool allows the user to select specific dates, as well as API query times, in order to produce a meaningful graph.
+The Date Range tool allows the user to select specific dates, as well as API query times, in order to produce a meaningful graph (e.g.).
+
+![TImePicker](https://github.com/buglabs/VIMOC/blob/master/files/pictures/TImePicker.PNG)
 
 ### Site Traffic Flow
 
